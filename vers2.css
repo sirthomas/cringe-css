@@ -1,3 +1,12 @@
+div.top-descr
+{
+position:fixed!important;
+top:30px!important;
+right:5px!important;
+}
+
+
+
 div#logo{display:none!important;}
 div#fp-search{display:none!important;}
 #truetop{background:url(http://e.thumbs.redditmedia.com/tNS6IfJ467ogOlAF.png);}
