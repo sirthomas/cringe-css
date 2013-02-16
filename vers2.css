@@ -1,7 +1,7 @@
 div#logo{display:none!important;}
 div#fp-search{display:none!important;}
 #truetop{background:url(http://e.thumbs.redditmedia.com/tNS6IfJ467ogOlAF.png);}
-div#stagetools{opacity:0.1%!important;}
+div#stagetools{opacity:0.1!important;}
 div#classic{display:none!important}
 div.change.toggle{display:none!important}
 #st-descr{display:none!important}
@@ -20,5 +20,6 @@ div#lock{display:none!important;}
 div#footer{display:none!important;}
 div.mods{margin:0px; padding:0px;border:none!important;}
 div.custom{background:none!important;}
-/*div#interactive{display:none!important;}*/
+/* ad display */
+/* div#interactive{display:none!important;} */
 div.top-descr{display:none!important;}
