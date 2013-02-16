@@ -1,9 +1,5 @@
     body {
-    background: url(http://i.imgur.com/BLz2DW2.png) fixed no-repeat;
-    -webkit-background-size: cover;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
+    background: url(http://i.imgur.com/BLz2DW2.png) fixed repeat;
     }
 
 
