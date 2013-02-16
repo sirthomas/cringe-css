@@ -16,7 +16,7 @@ div#stagetools{}
 div#classic{display:none!important}
 div.change.toggle{display:none!important}
 
-img[src*='http://www.synchtube.com/images/icons/star.png'] {display:none!important}
+img[src*='/images/icons/star.png'] {display:none!important;}
 
  img.leader_ico{background: url('http://i.imgur.com/pok1J0J.png');}
 
