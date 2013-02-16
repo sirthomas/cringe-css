@@ -10,3 +10,6 @@ div.chattoggle.toggle{display:none!important;}
 div.listview{display:none!important;}
 div.thumbview{display:none!important;}
 div#lock{display:none!important;}
+div#footer{display:none!important;}
+div.mods{margin:0px; padding:0px;}
+div.custom{background:none!important;}
