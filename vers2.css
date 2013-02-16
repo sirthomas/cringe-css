@@ -1,4 +1,4 @@
-#stage .stage {-moz-linear-gradient(center top , rgb(0, 0, 0), rgb(0, 0, 0)) repeat scroll 0px 0px rgb(0, 0, 0)!important;}
+#stage, .stage {-moz-linear-gradient(center top , rgb(0, 0, 0), rgb(0, 0, 0)) repeat scroll 0px 0px rgb(0, 0, 0)!important;}
 #centerstage {background:black!important;}
 
 .description a{color:grey!important;}
@@ -28,7 +28,7 @@ div.descr-mods{display:none!important;}
 div.custom,div#description,div.description{padding:0px!important;}
  
  
- 
+ #st-descr{border:none!important; padding:0px!important;}
  
  
  
@@ -55,9 +55,7 @@ div#footer{display:none!important;}
 div.mods{margin:0px; padding:0px;border:none!important;}
 a{opacity:0.52!important;}
 div.custom{background:none!important;border:none!important;}
-/* ad display */
-/* div#interactive{display:none!important;} */
-/* div.top-descr{display:none!important;} */
+ 
 
 
 
