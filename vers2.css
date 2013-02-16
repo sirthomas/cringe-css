@@ -4,6 +4,8 @@ background-image:url('http://i.imgur.com/YTNIXvM.png');
 background-repeat:repeat-x;
 }
 
+div#logo{display:none!important;}
+
 #truetop{background:url(http://e.thumbs.redditmedia.com/tNS6IfJ467ogOlAF.png);}
 
 div#classic{display:none!important}
