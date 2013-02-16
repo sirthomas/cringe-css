@@ -22,7 +22,7 @@ div.change.toggle{display:none!important}
 div.descr-mods{display:none!important;}
 
 
-#description .description{padding:none!important;}
+div.custom,div#description,div.description{padding:none!important;}
  
  
  
