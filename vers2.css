@@ -16,11 +16,24 @@ div#stagetools{}
 div#classic{display:none!important}
 div.change.toggle{display:none!important}
 
+
+
+
 img[src*='/images/icons/star.png'] {display:none!important;}
 
- img.leader_ico{background: url('http://i.imgur.com/pok1J0J.png');}
+ img.leader_ico{width:12px!important; height:12px!important; background: url('http://i.imgur.com/pok1J0J.png');}
 
- img.leader_ico{opacity:0.13!important;}
+ img.leader_ico{opacity:0.99!important;}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 #userinfo userinfo-active #user_menu #user_dropdown{background:none!important;} 
 /* #st-descr{display:none!important} */
 h3{font-size:16px!important; color:white!important;}
