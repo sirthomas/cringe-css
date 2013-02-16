@@ -1,4 +1,4 @@
-#stage .stage {-moz-linear-gradient(center top , rgb(0, 0, 0), rgb(0, 0, 0)) repeat scroll 0px 0px rgb(0, 0, 0)}
+#stage .stage {-moz-linear-gradient(center top , rgb(0, 0, 0), rgb(0, 0, 0)) repeat scroll 0px 0px rgb(0, 0, 0)!important;}
 #centerstage {background:black!important;}
 
 .description a{color:grey!important;}
