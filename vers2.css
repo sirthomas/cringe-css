@@ -21,7 +21,8 @@ div.change.toggle{display:none!important}
 
 div.descr-mods{display:none!important;}
 
- #description.description{padding:none!important;}
+
+#description .description{padding:none!important;}
  
  
  
