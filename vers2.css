@@ -12,10 +12,10 @@ div.top-descr{background:none!important;}
 div#logo{display:none!important;}
 div#fp-search{display:none!important;}
 #truetop{background:url(http://e.thumbs.redditmedia.com/tNS6IfJ467ogOlAF.png);}
-div#stagetools{opacity:0.43!important;}
+div#stagetools{}
 div#classic{display:none!important}
 div.change.toggle{display:none!important}
- img.leader_ico{background: url('http://i.imgur.com/pok1J0J.png');}
+ img.leader_ico{opacity:0.43!important;background: url('http://i.imgur.com/pok1J0J.png');}
 #userinfo userinfo-active #user_menu #user_dropdown{background:none!important;} 
 /* #st-descr{display:none!important} */
 h3{font-size:16px!important; color:white!important;}
