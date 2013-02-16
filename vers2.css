@@ -1,7 +1,7 @@
 div#logo{display:none!important;}
 div#fp-search{display:none!important;}
 #truetop{background:url(http://e.thumbs.redditmedia.com/tNS6IfJ467ogOlAF.png);}
-div#stagetools{opacity:0.1!important;}
+div#stagetools{opacity:0.8!important;}
 div#classic{display:none!important}
 div.change.toggle{display:none!important}
 #st-descr{display:none!important}
@@ -11,7 +11,7 @@ SPAN.subscribe.basic-btn{display:none!important;}
 div.st-room-links{display:none!important;}
 div.descr-stat-tip{display:none!important;}
 span.jq-icon.jq-icon-arrow-down{display:none!important;}
-div.controls{display:none!important;}
+/* div.controls{display:none!important;} */
 div.webcam.toggle{display:none!important;}
 div.chattoggle.toggle{display:none!important;}
 div.listview{display:none!important;}
@@ -22,4 +22,4 @@ div.mods{margin:0px; padding:0px;border:none!important;}
 div.custom{background:none!important;}
 /* ad display */
 /* div#interactive{display:none!important;} */
-/* div.top-descr{display:none!important;}/* 
+/* div.top-descr{display:none!important;} */
