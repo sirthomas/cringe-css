@@ -4,9 +4,9 @@ position:fixed!important;
 top:30px!important;
 right:5px!important;
 }
+div.descr-name{display:none!important;}
 
-
-
+div.top-descr{background:none!important;}
 div#logo{display:none!important;}
 div#fp-search{display:none!important;}
 #truetop{background:url(http://e.thumbs.redditmedia.com/tNS6IfJ467ogOlAF.png);}
