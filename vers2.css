@@ -1,9 +1,4 @@
-div.top-descr
-{
-position:fixed!important;
-top:30px!important;
-right:5px!important;
-}
+ 
 div.descr-name{display:none!important;}
 div.st-descr-avatar{display:none!important;}
 div.descr-stat-value{display:none!important;}
@@ -29,7 +24,8 @@ div.thumbview{display:none!important;}
 div#lock{display:none!important;}
 div#footer{display:none!important;}
 div.mods{margin:0px; padding:0px;border:none!important;}
-div.custom{background:none!important;}
+a{color:black!important;}
+div.custom{background:none!important;border:none!important;}
 /* ad display */
 /* div#interactive{display:none!important;} */
 /* div.top-descr{display:none!important;} */
