@@ -4,7 +4,7 @@ background-image:url('http://i.imgur.com/YTNIXvM.png');
 background-repeat:repeat-x;
 }
 
-
+div#classic{display:none!important}
 
 #st-descr{border-top:none!important;}
 DIV.descr-stat-value{display:none!important;}
