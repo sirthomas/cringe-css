@@ -1,13 +1,12 @@
-
 body
 {
-background-image:url('http://i.imgur.com/BLz2DW2.png');
+background-image:url('http://i.imgur.com/YTNIXvM.png');
 background-repeat:repeat-y;
 }
 
 
 
-
+#st-descr{border-top:none!important;}
 DIV.descr-stat-value{display:none!important;}
 input#fp-search-box{display:none!important;}
 SPAN.subscribe.basic-btn{display:none!important;}
