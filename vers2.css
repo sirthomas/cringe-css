@@ -4,6 +4,7 @@ position:fixed!important;
 top:30px!important;
 right:5px!important;
 } 
+div.controls{display:none!important;}
 div.descr-name{display:none!important;}
 div.st-descr-avatar{display:none!important;}
 div.descr-stat-value{display:none!important;}
