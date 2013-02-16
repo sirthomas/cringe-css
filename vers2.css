@@ -18,11 +18,11 @@ div#fp-search{display:none!important;}
 div#stagetools{}
 div#classic{display:none!important}
 div.change.toggle{display:none!important}
-
+div.custom{padding:0px!important; margin-bottom:-20px!important;}
 div.descr-mods{display:none!important;}
 
 
-div.custom,div#description,div.description{padding:none!important;}
+div.custom,div#description,div.description{padding:0px!important;}
  
  
  
