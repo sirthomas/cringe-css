@@ -1,8 +1,9 @@
-    body {
-    background: url(http://i.imgur.com/BLz2DW2.png);
-    }
 
-
+body
+{
+background-image:url('http://i.imgur.com/BLz2DW2.png');
+background-repeat:repeat-y;
+}
 
 
 
