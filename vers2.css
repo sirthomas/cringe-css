@@ -14,7 +14,7 @@ div#fp-search{display:none!important;}
 div#stagetools{opacity:0.43!important;}
 div#classic{display:none!important}
 div.change.toggle{display:none!important}
-div#top.room-top{opacity:0.43!important;}
+#userinfo userinfo-active #user_menu #user_dropdown{background:none!important;} 
 /* #st-descr{display:none!important} */
  
 input#fp-search-box{display:none!important;}
