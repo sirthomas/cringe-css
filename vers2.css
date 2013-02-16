@@ -17,7 +17,7 @@ div#classic{display:none!important}
 div.change.toggle{display:none!important}
 #userinfo userinfo-active #user_menu #user_dropdown{background:none!important;} 
 /* #st-descr{display:none!important} */
- 
+div.#moderators{opacity:0.23!important;}
 div.description-title{display:none!important;}
 input#fp-search-box{display:none!important;}
 SPAN.subscribe.basic-btn{display:none!important;}
