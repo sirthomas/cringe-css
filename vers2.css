@@ -1,4 +1,9 @@
- 
+div.top-descr
+{
+position:fixed!important;
+top:30px!important;
+right:5px!important;
+} 
 div.descr-name{display:none!important;}
 div.st-descr-avatar{display:none!important;}
 div.descr-stat-value{display:none!important;}
@@ -6,7 +11,7 @@ div.top-descr{background:none!important;}
 div#logo{display:none!important;}
 div#fp-search{display:none!important;}
 #truetop{background:url(http://e.thumbs.redditmedia.com/tNS6IfJ467ogOlAF.png);}
-div#stagetools{opacity:0.52!important;}
+div#stagetools{opacity:0.43!important;}
 div#classic{display:none!important}
 div.change.toggle{display:none!important}
 /* #st-descr{display:none!important} */
@@ -24,7 +29,7 @@ div.thumbview{display:none!important;}
 div#lock{display:none!important;}
 div#footer{display:none!important;}
 div.mods{margin:0px; padding:0px;border:none!important;}
-a{color:black!important;}
+a{opacity:0.52!important;}
 div.custom{background:none!important;border:none!important;}
 /* ad display */
 /* div#interactive{display:none!important;} */
